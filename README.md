@@ -1,2 +1,4 @@
 # hello-Nexus
-first try
+first try with programability
+
+Will see how it goes
